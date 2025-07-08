@@ -1,0 +1,9 @@
+
+Juego ambientado en un mundo de fantasia, una torre central con defensas que el protagnista debe subir de nivel para ser mas efectivas.
+
+- Mecánica de daño basada en la aleatoriedad.
+- Daño mínimo y máximo según enemigo.
+- Subidas de nivel fijas.
+- Enemigos que siguen una ruta.
+- Cámara cenital.
+- 
