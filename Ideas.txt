@@ -7,3 +7,11 @@ Juego ambientado en un mundo de fantasia, una torre central con defensas que el 
 - Enemigos que siguen una ruta.
 - Cámara cenital.
 - 
+
+
+
+
+ASSETS
+- Mundo  
+	Tiny swords, de Pixel Frog  
+		https://pixelfrog-assets.itch.io/tiny-swords
