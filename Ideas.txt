@@ -15,3 +15,11 @@ ASSETS
 - Mundo  
 	Tiny swords, de Pixel Frog  
 		https://pixelfrog-assets.itch.io/tiny-swords
+
+
+Progreso:
+	16/09/2025 
+		-Fondo de la fase 1 creado.
+		-Prueba de movimiento del PJ.
+		-Scripts de cámara y player empezados.
+		-Script de transparencia de edificios al pasar por detras creado.
