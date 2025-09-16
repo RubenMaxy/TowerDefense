@@ -6,8 +6,8 @@ Juego ambientado en un mundo de fantasia, una torre central con defensas que el 
 - Subidas de nivel fijas.
 - Enemigos que siguen una ruta.
 - Cámara cenital.
+- Explicar controles
 - 
-
 
 
 
@@ -23,3 +23,5 @@ Progreso:
 		-Prueba de movimiento del PJ.
 		-Scripts de cámara y player empezados.
 		-Script de transparencia de edificios al pasar por detras creado.
+		-Animación idle creada, solucionado problema del sprite (no correspondía la posición del sprite con el cuerpo físico) 
+		   Se probará en profundidad cuando se añadan las demas animaciones.
