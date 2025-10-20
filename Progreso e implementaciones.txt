@@ -1,0 +1,35 @@
+
+Juego ambientado en un mundo de fantasía, una torre central con defensas que el protagonista debe subir de nivel para ser mas efectivas.
+
+IDEAS:
+	- Mecánica de daño basada en la aleatoriedad.
+	- Daño mínimo y máximo según enemigo.
+	- Subidas de nivel fijas.
+	- Enemigos que siguen una ruta. Intentar rutas aleatorias.
+	- Cámara cenital.
+	- Explicar controles
+	- Modo infinito.
+	- Título,   Last Signal   Unha torre. Un sinal. Unha esperanza    (No definitivo)
+
+
+
+ASSETS:
+- Mundo  
+	Tiny swords, de Pixel Frog  
+		https://pixelfrog-assets.itch.io/tiny-swords
+
+
+Progreso:
+	16/09/2025 
+		-Fondo de la fase 1 creado.
+		-Prueba de movimiento del PJ.
+		-Scripts de cámara y player empezados. No definitivo (se debe pulir el movimiento de la cámara)
+		-Script de transparencia de edificios al pasar por detrás creado.
+		-Animación idle creada, solucionado problema del sprite (no correspondía la posición del sprite con el cuerpo físico) 
+		   Se probará en profundidad cuando se añadan las demás animaciones.
+
+	21/10/2025
+		-Se crean los límites de los escenarios. Se crea la imagen a usar para estos límites.
+		-Se crean los prefabs de la torre principal y player (se pulirán y añadirán elementos a medida que se añadan mas mecánicas, estado inicial).
+		-Actualización del motor Unity (la versión previa del motor presentaba problemas de seguridad)
+		-Se hicieron mas pruebas con el movimiento del personaje y la cámara (no se modificó nada ya que las pruebas no salieron según lo esperado)
