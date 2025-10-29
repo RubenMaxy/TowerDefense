@@ -33,3 +33,10 @@ Progreso:
 		-Se crean los prefabs de la torre principal y player (se pulirán y añadirán elementos a medida que se añadan mas mecánicas, estado inicial).
 		-Actualización del motor Unity (la versión previa del motor presentaba problemas de seguridad)
 		-Se hicieron mas pruebas con el movimiento del personaje y la cámara (no se modificó nada ya que las pruebas no salieron según lo esperado)
+
+	29/10/2025
+		-Se distribuyen los campamentos enemigos desde los que saldrán las hordas de enemigos. Uno en cada esquina del mapa.
+		-Se crea el script que lanza las oleadas. Aun no funcionando, fase preliminar.
+		-Se crea el primer tipo de enemigo, se crea el prefab. Se crea el script que controla su movimiento y le asigna el objetivo. Se prueba que se dirige a la torre. 
+			Realizar mas pruebas para controlar colisiones con el entorno.
+		-Se arregló un problema con el punto de referencia que tomaban los enemigos para dirigirse a la torre. El pivote de la misma estaba descentrado (arreglado).
