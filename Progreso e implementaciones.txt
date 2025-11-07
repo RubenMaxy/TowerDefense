@@ -37,6 +37,10 @@ Progreso:
 	29/10/2025
 		-Se distribuyen los campamentos enemigos desde los que saldrán las hordas de enemigos. Uno en cada esquina del mapa.
 		-Se crea el script que lanza las oleadas. Aun no funcionando, fase preliminar.
-		-Se crea el primer tipo de enemigo, se crea el prefab. Se crea el script que controla su movimiento y le asigna el objetivo. Se prueba que se dirige a la torre. 
-			Realizar mas pruebas para controlar colisiones con el entorno.
+		-Se crea el primer tipo de enemigo, se crea el prefab. Se crea el script que controla su movimiento y le asigna el objetivo. Se prueba que se dirige a la torre. Realizar mas pruebas para controlar colisiones con el entorno.
 		-Se arregló un problema con el punto de referencia que tomaban los enemigos para dirigirse a la torre. El pivote de la misma estaba descentrado (arreglado).
+
+	7/11/2025
+		-Se crea script que genera un mapa aleatorio, distribuye decorado (rocas, arboles, postes...) de forma aleatoria en un rango determinado. También genera unas ruinas, las cuales el jugador puede reparar para hacer nuevas torres defensivas, con este script, el mismo mapa tendrá una apariencia diferente aunque se usen los mismos sprites, distribución de elementos del entorno y posición de las ruinas.
+		-Se crea el sistema de navegación usando NavMeshSurface, de manera que los enemigos se adaptan al terreno para llegar a la torre.
+		-Se crean los prefabs del decorado y ruinas. 4 decorado y 1 ruina, se añadirán mas si es necesario. La ruina no tiene la animación de reparación, se creará próximamente.
